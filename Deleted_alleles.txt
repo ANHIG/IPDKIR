@@ -1,0 +1,7 @@
+KIR00208   2DL4*00203      Sequence shown to contain errors and be identical to KIR2DL4*00602 (Mar 08)
+KIR00209   2DL4*00502      Sequence shown to be in error and identical to 2DL4*00501 (Feb 11)
+KIR00490   2DS1*007        Sequence named in error and renamed 2DS1*00502 (Aug 09)
+KIR00047   2DS4*002        Sequence shown to contain errors (Nov 05)
+KIR00124   2DS4*005        Sequence shown to contain errors and be identical to KIR2DS4*004 (Jan 05)
+KIR00123   3DL1*003        Sequence shown to contain errors and be identical to KIR3DL1*01502 (Jan 05)
+KIR00491   3DL3*024        Sequence named in error and renamed 3DL3*02102 (Aug 09)
