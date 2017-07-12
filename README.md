@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
- IPD-IKIR Database
+ IPD-KIR Database
 --------------------------------------------------------------------------------
 
 This directory contains data for the IPD-KIR Sequence Database. The database provides a centralised repository for human KIR sequences. Killer-cell Immunoglobulin-like Receptors (KIR) have been shown to be highly polymorphic at the allelic and haplotypic level. KIRs are members of the immunoglobulin superfamily (IgSF) formerly called Killer-cell Inhibitory Receptors. They are composed of two or three Ig-domains, a transmembrane region and cytoplasmic tail which can in turn be short (activatory) or long (inhibitory). The Leukocyte Receptor Complex (LRC) which encodes KIR genes has been shown to be polymorphic, polygenic and complex like the MHC.The database was publically released in February 2003.
