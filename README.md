@@ -4,21 +4,21 @@
 
 This directory contains data for the IPD-KIR Sequence Database. The database provides a centralised repository for human KIR sequences. Killer-cell Immunoglobulin-like Receptors (KIR) have been shown to be highly polymorphic at the allelic and haplotypic level. KIRs are members of the immunoglobulin superfamily (IgSF) formerly called Killer-cell Inhibitory Receptors. They are composed of two or three Ig-domains, a transmembrane region and cytoplasmic tail which can in turn be short (activatory) or long (inhibitory). The Leukocyte Receptor Complex (LRC) which encodes KIR genes has been shown to be polymorphic, polygenic and complex like the MHC.The database was publically released in February 2003.
 
-Updated: 28 June 2003,      Release 1.0.0
-Updated: 24 January 2005,   Release 1.1.0
-Updated: 11 October 2005,   Release 1.1.1
-Updated: 10 March 2006,     Release 1.2.0
-Updated: 23 March 2006,     Release 1.2.1
-Updated: 10 November 2006,  Release 1.3.0
-Updated: 04 June 2007,      Release 1.4.0
-Updated: 18 January 2008,   Release 2.0.0
-Updated: 17 September 2008, Release 2.0.1
-Updated: 20 February 2009,  Release 2.1.0
-Updated: 25 May 2010,       Release 2.2.0
-Updated: 16 August 2010,    Release 2.3.0
-Updated: 15 April 2011,     Release 2.4.0
-Updated: 11 October 2013,   Release 2.5.0
-Updated: 19 January 2015,   Release 2.6.0
+* Updated: 28 June 2003,      Release 1.0.0
+* Updated: 24 January 2005,   Release 1.1.0
+* Updated: 11 October 2005,   Release 1.1.1
+* Updated: 10 March 2006,     Release 1.2.0
+* Updated: 23 March 2006,     Release 1.2.1
+* Updated: 10 November 2006,  Release 1.3.0
+* Updated: 04 June 2007,      Release 1.4.0
+* Updated: 18 January 2008,   Release 2.0.0
+* Updated: 17 September 2008, Release 2.0.1
+* Updated: 20 February 2009,  Release 2.1.0
+* Updated: 25 May 2010,       Release 2.2.0
+* Updated: 16 August 2010,    Release 2.3.0
+* Updated: 15 April 2011,     Release 2.4.0
+* Updated: 11 October 2013,   Release 2.5.0
+* Updated: 19 January 2015,   Release 2.6.0
 
 Files are currently provided for the nucleotide and protein sequences in FASTA or PIR format.
 
