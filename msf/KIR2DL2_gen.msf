@@ -1,24 +1,24 @@
 !!NA_MULTIPLE_ALIGNMENT
 
-   MSF: 14829  Type: N  Jul 13, 2017  14:19  Check: 0 ..
+   MSF: 14829  Type: N  Jul 14, 2017  09:21  Check: 0 ..
 
- Name: 2DL2*0010101     Len: 14829  Check: 2479  Weight:  1.00
- Name: 2DL2*0010102     Len: 14829  Check:  350  Weight:  1.00
- Name: 2DL2*0010103     Len: 14829  Check: 8313  Weight:  1.00
- Name: 2DL2*0010104     Len: 14829  Check: 9387  Weight:  1.00
- Name: 2DL2*0010105     Len: 14829  Check: 9263  Weight:  1.00
- Name: 2DL2*0010106     Len: 14829  Check: 9210  Weight:  1.00
- Name: 2DL2*0010107     Len: 14829  Check: 7879  Weight:  1.00
+ Name: 2DL2*0010101     Len: 14829  Check: 2454  Weight:  1.00
+ Name: 2DL2*0010102     Len: 14829  Check:  325  Weight:  1.00
+ Name: 2DL2*0010103     Len: 14829  Check: 8288  Weight:  1.00
+ Name: 2DL2*0010104     Len: 14829  Check: 9362  Weight:  1.00
+ Name: 2DL2*0010105     Len: 14829  Check: 9238  Weight:  1.00
+ Name: 2DL2*0010106     Len: 14829  Check: 9185  Weight:  1.00
+ Name: 2DL2*0010107     Len: 14829  Check: 7094  Weight:  1.00
  Name: 2DL2*00102       Len: 14829  Check: 3161  Weight:  1.00
  Name: 2DL2*00103       Len: 14829  Check: 9442  Weight:  1.00
  Name: 2DL2*002         Len: 14829  Check: 2477  Weight:  1.00
- Name: 2DL2*0030101     Len: 14829  Check: 6022  Weight:  1.00
- Name: 2DL2*0030102     Len: 14829  Check: 4920  Weight:  1.00
- Name: 2DL2*0030103     Len: 14829  Check: 9087  Weight:  1.00
- Name: 2DL2*0030104     Len: 14829  Check: 7205  Weight:  1.00
+ Name: 2DL2*0030101     Len: 14829  Check: 5997  Weight:  1.00
+ Name: 2DL2*0030102     Len: 14829  Check: 1428  Weight:  1.00
+ Name: 2DL2*0030103     Len: 14829  Check: 9062  Weight:  1.00
+ Name: 2DL2*0030104     Len: 14829  Check: 7180  Weight:  1.00
  Name: 2DL2*0030105     Len: 14829  Check: 6687  Weight:  1.00
- Name: 2DL2*0030106     Len: 14829  Check: 6291  Weight:  1.00
- Name: 2DL2*0030107     Len: 14829  Check: 9467  Weight:  1.00
+ Name: 2DL2*0030106     Len: 14829  Check: 6266  Weight:  1.00
+ Name: 2DL2*0030107     Len: 14829  Check: 9442  Weight:  1.00
  Name: 2DL2*00302       Len: 14829  Check: 2361  Weight:  1.00
  Name: 2DL2*00303       Len: 14829  Check: 2511  Weight:  1.00
  Name: 2DL2*00304       Len: 14829  Check: 2313  Weight:  1.00
@@ -963,23 +963,23 @@
        2DL2*012  .......... .......... .......... .......... ..........
        2DL2*013  .......... .......... .......... .......... ..........
 
-   2DL2*0010101  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0010102  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0010103  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0010104  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0010105  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0010106  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0010107  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
+   2DL2*0010101  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0010102  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0010103  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0010104  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0010105  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0010106  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0010107  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
      2DL2*00102  .......... .......... .......... .......... ..........
      2DL2*00103  .......... .......... .......... .......... ..........
        2DL2*002  .......... .......... .......... .......... ..........
-   2DL2*0030101  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0030102  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0030103  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0030104  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
+   2DL2*0030101  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0030102  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0030103  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0030104  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
    2DL2*0030105  CAAGTTCTGT GGGGACCAGG GGTTTAGACT GGGGGTGCTC AAAAGGCTGG
-   2DL2*0030106  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
-   2DL2*0030107  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA..GCTGG
+   2DL2*0030106  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
+   2DL2*0030107  CAAGTTCTGT GGGGACCAGG G.TT.AGACT GGGG.TGCTC AAA.G.CTGG
      2DL2*00302  .......... .......... .......... .......... ..........
      2DL2*00303  .......... .......... .......... .......... ..........
      2DL2*00304  .......... .......... .......... .......... ..........
@@ -4329,7 +4329,7 @@
    2DL2*0010104  TATATATATA TATATATATA TATATATATA TA.....TTT TTTTTTTTTT
    2DL2*0010105  TATATATATA TATATATATA TATATATATA TATATA...T TTTTTTTTTT
    2DL2*0010106  TATATATATA TATATATATA TATATATATA TATA...TTT TTTTTTTTTT
-   2DL2*0010107  TATAT..... .......... .......... .......... ..TTTTTTTT
+   2DL2*0010107  TATA...... .......... .......... .......... .TTTTTTTTT
      2DL2*00102  .......... .......... .......... .......... ..........
      2DL2*00103  .......... .......... .......... .......... ..........
        2DL2*002  .......... .......... .......... .......... ..........
@@ -9454,7 +9454,7 @@
      2DL2*00103  .......... .......... .......... .......... ..........
        2DL2*002  .......... .......... .......... .......... ..........
    2DL2*0030101  CCTTCCCTCA TGCTGT.... .......... .......... ..........
-   2DL2*0030102  CCTTCCCTCA TGCTGT.... .......... .......... ..........
+   2DL2*0030102  CCTTCCCTCA TGCTGTTCCA CCTCCCCTCA GACTAGCTTT CAGTCTTCTG
    2DL2*0030103  .......... .......... .......... .......... ..........
    2DL2*0030104  CCTTCCCTCA TGCTGTTCCA CCTCCCCTCA GACTAGCTTT CAGTCTTCTG
    2DL2*0030105  CCTTCCCTCA TGCTGTTCCA CCTCCCCTCA GACTAGCTTT CAGTCTTCTG
@@ -9486,7 +9486,7 @@
      2DL2*00103  .......... .......... .......... .......... ..........
        2DL2*002  .......... .......... .......... .......... ..........
    2DL2*0030101  .......... .......... .......... .......... ..........
-   2DL2*0030102  .......... .......... .......... .......... ..........
+   2DL2*0030102  TCAGCAGTAA AACTTATATA TTTTTTAAAA TAACTTCAAT GTAGTTTTCC
    2DL2*0030103  .......... .......... .......... .......... ..........
    2DL2*0030104  TCAGCAGTAA AACTTATATA TTTTTTAAAA TAACTTCAAT GTAGTTTTCC
    2DL2*0030105  TCAGCAGTAA AACTTATATA TTTTTTAAAA TAACTTCAAT GTAGTTTTCC
@@ -9518,7 +9518,7 @@
      2DL2*00103  .......... .......... .........
        2DL2*002  .......... .......... .........
    2DL2*0030101  .......... .......... .........
-   2DL2*0030102  .......... .......... .........
+   2DL2*0030102  ATCCTTCAAA TAAACATGTC TGCCCCCAT
    2DL2*0030103  .......... .......... .........
    2DL2*0030104  ATCCTTCAAA TAAACATGTC TGCCCCCAT
    2DL2*0030105  ATCCTTCAAA TAAACATGTC TGCCCCCAT
