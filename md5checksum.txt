@@ -23,4 +23,3 @@ MD5 (KIR_prot.fasta) = 3caca20f86582dd33f01ec239411b833
 MD5 (LICENCE.md) = 5337cf9fe06e54111f7dfda737ebbabe
 MD5 (Manual.md) = 5f1db221333bd0a39b04a08b490f458e
 MD5 (README.md) = e1805be9ccf7e3301fe489f25dff54da
-MD5 (md5checksum.txt) = d41d8cd98f00b204e9800998ecf8427e
