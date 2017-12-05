@@ -19,6 +19,7 @@ This directory contains data for the IPD-KIR Sequence Database. The database pro
 * Updated: 15 April 2011,     Release 2.4.0
 * Updated: 11 October 2013,   Release 2.5.0
 * Updated: 19 January 2015,   Release 2.6.0
+* Updated: 14 July 2017,      Release 2.6.0
 
 Files are currently provided for the nucleotide and protein sequences in FASTA or PIR format.
 
@@ -63,18 +64,23 @@ Files designated “X_nuc.pir”, where X is a locus or gene, contain the nucleo
 
 Files designated “X_gen.pir”, where X is a locus or gene, contain genomic DNA sequences. Please note for alleles that do not possess genomic sequences, there will be no entry in the file.
 
+### XML 
+
+A beta-version of an XML formatted export of the IPD-KIR sequences, both XML and XSD files are provided.
+
 ### Other Files
 
 The top-level directory contains the following lists; 
 
 * Allelelist.txt and Allelelist.XXXX.txt - a csv file listed all alleles named at the time of the release, the XXXX in the file denotes a particular release. Allelelist.txt is a copy of the latest version.
 * Deleted_alleles.txt - a csv file detailing all deleted allele names, with reasons for the deletion. This list also includes details of any suffix changes. 
+* KIR.dat - An EMBL-ENA style format file containing data from the IPD-KIR Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details.
+* KIR_gen.fasta - a copy of the file in the fasta directory, includes the DNA sequence for all alleles, which have genomic sequences available. 
+* KIR_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 
+* KIR_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
 * LICENSE.md - a file detailing the licensing of data included in the IPD-KIR Database.
 * README.md - This README file
-* kir.dat - An EMBL-ENA style format file containing data from the IPD-KIR Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details.
-* kir_gen.fasta - a copy of the file in the fasta directory, includes the DNA sequence for all alleles, which have genomic sequences available. 
-* kir_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 
-* kir_prot.fasta - a copy of the file in the fasta directory, includes the amino acid sequence for all alleles. 
+* Manual.md - This is documentation for the KIR.dat file
 * md5checksum.txt - a file detailing md5 checksums for all files in the top-levle directory
 
 --------------------------------------------------------------------------------
