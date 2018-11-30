@@ -1,6 +1,15 @@
+# file: Deleted_alleles.txt
+# date: 2018-11-30
+# version: IPD-KIR 2.8.0
+# origin: https://github.com/ANHIG/IPDKIR/Deleted_alleles.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IPDKIR/Latest/Deleted_alleles.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+# Deleted Alleles
+AlleleID,Allele,Description
 KIR00208,KIR2DL4*00203,Sequence shown to contain errors and be identical to KIR2DL4*00602 (Mar 08)
 KIR00209,KIR2DL4*00502,Sequence shown to be in error and identical to KIR2DL4*00501 (Feb 11)
-KIR00441,KIR2DL5B*0020105,Sequence shown to be identical to 2DL5B*0020101 (Nov 18)
+KIR00441,KIR2DL5B*0020105,Sequence shown to be identical to KIR2DL5B*0020101 (Nov 18)
+KIR01035,KIR2DP1*005,Named in error and renamed KIR2DP1*0020110 (Nov 18)
 KIR00490,KIR2DS1*007,Sequence named in error and renamed KIR2DS1*00502 (Aug 09)
 KIR00047,KIR2DS4*002,Sequence shown to contain errors (Nov 05)
 KIR00124,KIR2DS4*005,Sequence shown to contain errors and be identical to KIR2DS4*004 (Jan 05)

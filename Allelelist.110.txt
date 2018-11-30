@@ -1,3 +1,10 @@
+# file: Allelelist.110.txt
+# date: 2005-01-24
+# version: IPD-KIR 1.1.0
+# origin: https://github.com/ANHIG/IPDKIR/Allelelist.110.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IPDKIR/Latest/Allelelist.110.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+AlleleID
 KIR2DL1*001
 KIR2DL1*002
 KIR2DL1*00301
