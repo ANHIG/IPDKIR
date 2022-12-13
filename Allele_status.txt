@@ -1,8 +1,8 @@
 # file: Allele_status.txt
-# date: 2021-12-16
-# version: IPD-IMGT/HLA 2.11.0
-# origin: https://github.com/ANHIG/IMGTHLA/Allele_status.txt
-# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/Allele_status.txt
+# date: 2022-12-12
+# version: IPD-KIR 2.12.0
+# origin: https://github.com/ANHIG/IPDKIR/Allele_status.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IPDKIR/Latest/Allele_status.txt
 # author: Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 Allele,Cells,Groups,Confirmed,Start,End,Partial,Type
 KIR2DL1*0010101,9,3,Confirmed,1,1047,Full,gDNA
@@ -78,6 +78,8 @@ KIR2DL1*00304,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*00305,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*00306,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*00307,1,1,Unconfirmed,1,1047,Full,gDNA
+KIR2DL1*00308,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*00309,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*0040101,7,4,Confirmed,1,1047,Full,gDNA
 KIR2DL1*0040102,4,3,Confirmed,1,1047,Full,gDNA
 KIR2DL1*0040103,1,1,Unconfirmed,1,1047,Full,gDNA
@@ -99,6 +101,7 @@ KIR2DL1*00402,5,2,Confirmed,1,1047,Full,gDNA
 KIR2DL1*00403,1,1,Unconfirmed,11,1047,Partial,cDNA
 KIR2DL1*00404,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*00405,1,1,Unconfirmed,1,1047,Full,gDNA
+KIR2DL1*00406,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*005,1,1,Unconfirmed,41,1047,Partial,cDNA
 KIR2DL1*00601,2,2,Confirmed,1,1047,Full,cDNA
 KIR2DL1*00602,1,1,Unconfirmed,1,1047,Full,cDNA
@@ -178,6 +181,15 @@ KIR2DL1*065,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*066,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*067,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL1*068,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*069,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*070,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*071,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*072,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*073,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*074,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*075,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*076,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL1*077,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL2*0010101,3,3,Confirmed,1,1047,Full,gDNA
 KIR2DL2*0010102,1,1,Unconfirmed,1,1047,Full,gDNA
 KIR2DL2*0010103,1,1,Unconfirmed,1,1047,Full,gDNA
@@ -212,6 +224,7 @@ KIR2DL2*012,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL2*013,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL2*014,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL2*015,1,1,Unconfirmed,1,1047,Full,cDNA
+KIR2DL2*016,1,1,Unconfirmed,1,1047,Full,cDNA
 KIR2DL3*0010101,4,4,Confirmed,1,1026,Full,gDNA
 KIR2DL3*0010102,1,1,Unconfirmed,1,1026,Full,gDNA
 KIR2DL3*0010103,1,1,Unconfirmed,1,1026,Full,gDNA
@@ -236,6 +249,8 @@ KIR2DL3*00107,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*00108,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*00109,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*00110,3,3,Confirmed,1,1026,Full,gDNA
+KIR2DL3*00111,1,1,Unconfirmed,1,1026,Full,cDNA
+KIR2DL3*00112,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*0020101,3,3,Confirmed,1,1026,Full,gDNA
 KIR2DL3*0020102,1,1,Unconfirmed,1,1026,Full,gDNA
 KIR2DL3*0020103,1,1,Unconfirmed,1,1026,Full,gDNA
@@ -243,6 +258,7 @@ KIR2DL3*003,2,2,Confirmed,1,1026,Full,cDNA
 KIR2DL3*004,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*00501,3,3,Confirmed,1,1026,Full,gDNA
 KIR2DL3*00502,1,1,Unconfirmed,1,1026,Full,cDNA
+KIR2DL3*00503,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*006,3,3,Confirmed,1,1026,Full,gDNA
 KIR2DL3*007,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*008N,1,1,Unconfirmed,71,1025,Partial,cDNA
@@ -276,6 +292,7 @@ KIR2DL3*033,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*034,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*035,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL3*036,1,1,Unconfirmed,1,1026,Full,gDNA
+KIR2DL3*037,1,1,Unconfirmed,1,1026,Full,cDNA
 KIR2DL4*00101,1,1,Unconfirmed,1,1134,Full,cDNA
 KIR2DL4*0010201,13,5,Confirmed,1,1134,Full,gDNA
 KIR2DL4*0010202,1,1,Unconfirmed,1,1134,Full,gDNA
@@ -293,6 +310,7 @@ KIR2DL4*00104,1,1,Unconfirmed,29,1134,Partial,gDNA
 KIR2DL4*00105,1,1,Unconfirmed,7,1134,Partial,cDNA
 KIR2DL4*00106,1,1,Unconfirmed,1,1134,Full,cDNA
 KIR2DL4*00107,1,1,Unconfirmed,1,1134,Full,gDNA
+KIR2DL4*00108,1,1,Unconfirmed,1,1134,Full,cDNA
 KIR2DL4*00201,1,1,Unconfirmed,1,1134,Full,cDNA
 KIR2DL4*00202,2,2,Confirmed,1,1134,Full,cDNA
 KIR2DL4*003,2,1,Confirmed,1,1134,Full,cDNA
@@ -313,7 +331,7 @@ KIR2DL4*00603,1,1,Unconfirmed,1,1134,Full,cDNA
 KIR2DL4*00604,2,1,Confirmed,1,1134,Full,gDNA
 KIR2DL4*007,1,1,Unconfirmed,1,1106,Partial,cDNA
 KIR2DL4*0080101,7,4,Confirmed,1,1133,Full,gDNA
-KIR2DL4*0080102,2,2,Confirmed,1,1133,Full,cDNA
+KIR2DL4*0080102,3,2,Confirmed,1,1133,Full,cDNA
 KIR2DL4*0080103,1,1,Unconfirmed,29,1133,Partial,gDNA
 KIR2DL4*0080104,1,1,Unconfirmed,29,1133,Partial,cDNA
 KIR2DL4*0080105,1,1,Unconfirmed,1,1133,Full,gDNA
@@ -374,7 +392,7 @@ KIR2DL4*041,1,1,Unconfirmed,1,1134,Full,cDNA
 KIR2DL4*042,2,1,Confirmed,1,1134,Full,gDNA
 KIR2DL4*043,2,1,Confirmed,1,1133,Full,gDNA
 KIR2DL4*044,2,1,Confirmed,1,1133,Full,gDNA
-KIR2DL4*045,1,1,Unconfirmed,1,1134,Full,gDNA
+KIR2DL4*045,2,2,Confirmed,1,1134,Full,gDNA
 KIR2DL4*046,2,1,Confirmed,1,1133,Full,gDNA
 KIR2DL4*047,2,2,Confirmed,1,1133,Full,gDNA
 KIR2DL4*048,1,1,Unconfirmed,1,1133,Full,gDNA
@@ -388,6 +406,7 @@ KIR2DL4*055,1,1,Unconfirmed,1,1133,Full,cDNA
 KIR2DL4*056,1,1,Unconfirmed,1,1134,Full,cDNA
 KIR2DL4*057,1,1,Unconfirmed,1,1133,Full,cDNA
 KIR2DL4*058,1,1,Unconfirmed,29,1134,Partial,cDNA
+KIR2DL4*059,1,1,Unconfirmed,1,1134,Full,cDNA
 KIR2DL5A*0010101,5,5,Confirmed,1,1128,Full,gDNA
 KIR2DL5A*0010102,1,1,Unconfirmed,1,1128,Full,gDNA
 KIR2DL5A*0010103,1,1,Unconfirmed,1,1128,Full,gDNA
@@ -432,6 +451,7 @@ KIR2DL5A*0330102,1,1,Unconfirmed,1,1128,Full,gDNA
 KIR2DL5A*0340101,1,1,Unconfirmed,1,1128,Full,gDNA
 KIR2DL5A*0340102,1,1,Unconfirmed,1,1128,Full,gDNA
 KIR2DL5A*040,1,1,Unconfirmed,1,1128,Full,cDNA
+KIR2DL5A*042,1,1,Unconfirmed,1,1128,Full,cDNA
 KIR2DL5B*0020101,3,3,Confirmed,1,1128,Full,gDNA
 KIR2DL5B*0020102,1,1,Unconfirmed,1,1128,Full,gDNA
 KIR2DL5B*0020103,1,1,Unconfirmed,1,1128,Full,gDNA
@@ -615,7 +635,7 @@ KIR2DS2*0200104,1,1,Unconfirmed,1,915,Full,gDNA
 KIR2DS2*0210101,2,1,Confirmed,1,915,Full,gDNA
 KIR2DS2*0210102,1,1,Unconfirmed,1,915,Full,gDNA
 KIR2DS2*0210103,1,1,Unconfirmed,1,915,Full,gDNA
-KIR2DS2*022,1,1,Unconfirmed,1,915,Full,cDNA
+KIR2DS2*022,2,1,Confirmed,1,915,Full,cDNA
 KIR2DS3*00101,1,1,Unconfirmed,1,915,Full,cDNA
 KIR2DS3*00102,1,1,Unconfirmed,1,915,Full,cDNA
 KIR2DS3*0010301,6,4,Confirmed,1,915,Full,gDNA
@@ -726,6 +746,8 @@ KIR2DS4*019,1,1,Unconfirmed,1,915,Full,cDNA
 KIR2DS4*020,1,1,Unconfirmed,1,915,Full,cDNA
 KIR2DS4*021,1,1,Unconfirmed,1,915,Full,cDNA
 KIR2DS4*022,1,1,Unconfirmed,1,915,Full,cDNA
+KIR2DS4*023,1,1,Unconfirmed,1,915,Full,cDNA
+KIR2DS4*024,1,1,Unconfirmed,1,915,Full,cDNA
 KIR2DS5*001,1,1,Unconfirmed,1,915,Full,cDNA
 KIR2DS5*0020101,3,3,Confirmed,1,915,Full,gDNA
 KIR2DS5*0020102,1,1,Unconfirmed,1,915,Full,gDNA
@@ -869,6 +891,7 @@ KIR3DL1*0070104,1,1,Unconfirmed,1,1335,Full,gDNA
 KIR3DL1*0070105,1,1,Unconfirmed,1,1335,Full,gDNA
 KIR3DL1*0070106,1,1,Unconfirmed,1,1335,Full,gDNA
 KIR3DL1*00702,1,1,Unconfirmed,1,1335,Full,cDNA
+KIR3DL1*00703,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*0080101,4,3,Confirmed,1,1335,Full,gDNA
 KIR3DL1*0080102,1,1,Unconfirmed,1,1335,Full,gDNA
 KIR3DL1*0090101,5,3,Confirmed,1,1335,Full,gDNA
@@ -900,6 +923,8 @@ KIR3DL1*01503,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*01504,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*01505,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*01506,1,1,Unconfirmed,1,1335,Full,cDNA
+KIR3DL1*01507,1,1,Unconfirmed,1,1335,Full,cDNA
+KIR3DL1*01508,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*016,2,2,Confirmed,1,1335,Full,cDNA
 KIR3DL1*01701,4,3,Confirmed,1,1335,Full,gDNA
 KIR3DL1*01702,1,1,Unconfirmed,1,1265,Partial,cDNA
@@ -979,7 +1004,7 @@ KIR3DL1*093,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*094N,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*095,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*096,1,1,Unconfirmed,1,1335,Full,cDNA
-KIR3DL1*097,2,2,Confirmed,1,1335,Full,cDNA
+KIR3DL1*097,3,2,Confirmed,1,1335,Full,cDNA
 KIR3DL1*098,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL1*099,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*100,1,1,Unconfirmed,1,1335,Full,cDNA
@@ -998,6 +1023,8 @@ KIR3DL1*117,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*118,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL1*1190101,1,1,Unconfirmed,1,1335,Full,gDNA
 KIR3DL1*1190102,1,1,Unconfirmed,1,1335,Full,gDNA
+KIR3DL1*120,1,1,Unconfirmed,1,1335,Full,cDNA
+KIR3DL1*121,1,1,Unconfirmed,1,1335,Full,cDNA
 KIR3DL2*0010101,10,3,Confirmed,1,1368,Full,gDNA
 KIR3DL2*0010102,1,1,Unconfirmed,1,1368,Full,gDNA
 KIR3DL2*00102,1,1,Unconfirmed,71,1368,Partial,cDNA
@@ -1039,7 +1066,8 @@ KIR3DL2*00708,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*00709,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*00710,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*00711,1,1,Unconfirmed,1,1368,Full,cDNA
-KIR3DL2*008,2,2,Confirmed,1,1368,Full,gDNA
+KIR3DL2*00801,2,2,Confirmed,1,1368,Full,gDNA
+KIR3DL2*00802,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*00901,2,2,Confirmed,1,1368,Full,gDNA
 KIR3DL2*00902,2,2,Confirmed,1,1368,Full,cDNA
 KIR3DL2*00903,1,1,Unconfirmed,1,1368,Full,gDNA
@@ -1098,7 +1126,7 @@ KIR3DL2*052,1,1,Unconfirmed,70,1368,Partial,cDNA
 KIR3DL2*053,1,1,Unconfirmed,70,1368,Partial,cDNA
 KIR3DL2*054,1,1,Unconfirmed,70,1368,Partial,cDNA
 KIR3DL2*055,1,1,Unconfirmed,70,1368,Partial,cDNA
-KIR3DL2*056,1,1,Unconfirmed,1,1368,Full,cDNA
+KIR3DL2*056,1,1,Unconfirmed,1,1368,Full,gDNA
 KIR3DL2*057,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*058,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*059,1,1,Unconfirmed,1,1368,Full,cDNA
@@ -1164,7 +1192,8 @@ KIR3DL2*113,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*114,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*115,1,1,Unconfirmed,1,1368,Full,cDNA
 KIR3DL2*116,1,1,Unconfirmed,1,1368,Full,cDNA
-KIR3DL3*0010101,5,5,Confirmed,1,1233,Full,gDNA
+KIR3DL2*117,1,1,Unconfirmed,1,1368,Full,cDNA
+KIR3DL3*0010101,6,5,Confirmed,1,1233,Full,gDNA
 KIR3DL3*0010102,2,1,Confirmed,1,1233,Full,gDNA
 KIR3DL3*0010103,1,1,Unconfirmed,1,1233,Full,gDNA
 KIR3DL3*0010104,1,1,Unconfirmed,1,1233,Full,gDNA
@@ -1376,7 +1405,7 @@ KIR3DL3*096,1,1,Unconfirmed,1,1233,Full,gDNA
 KIR3DL3*097,1,1,Unconfirmed,1,1233,Full,gDNA
 KIR3DL3*098,1,1,Unconfirmed,1,1233,Full,gDNA
 KIR3DL3*099,1,1,Unconfirmed,1,1233,Full,gDNA
-KIR3DL3*100,1,1,Unconfirmed,1,1233,Full,gDNA
+KIR3DL3*100,2,2,Confirmed,1,1233,Full,gDNA
 KIR3DL3*101,1,1,Unconfirmed,1,1233,Full,gDNA
 KIR3DL3*102,1,1,Unconfirmed,1,1233,Full,gDNA
 KIR3DL3*103,2,1,Confirmed,1,1233,Full,gDNA
@@ -1392,6 +1421,7 @@ KIR3DL3*111,1,1,Unconfirmed,1,1233,Full,cDNA
 KIR3DL3*112,1,1,Unconfirmed,1,1233,Full,cDNA
 KIR3DL3*113,1,1,Unconfirmed,1,1233,Full,cDNA
 KIR3DL3*114,1,1,Unconfirmed,1,1233,Full,cDNA
+KIR3DL3*115,1,1,Unconfirmed,1,1233,Full,cDNA
 KIR3DP1*001,2,3,Confirmed,1,949,Full,gDNA
 KIR3DP1*002,1,1,Unconfirmed,1,949,Full,gDNA
 KIR3DP1*0030101,4,3,Confirmed,1,913,Full,gDNA
@@ -1435,7 +1465,7 @@ KIR3DP1*0060104,1,1,Unconfirmed,1,913,Full,gDNA
 KIR3DP1*00602,1,1,Unconfirmed,1,913,Full,gDNA
 KIR3DP1*0060301,1,1,Unconfirmed,1,913,Full,gDNA
 KIR3DP1*0060302,1,1,Unconfirmed,1,913,Full,gDNA
-KIR3DP1*00604,1,1,Unconfirmed,1,913,Full,gDNA
+KIR3DP1*00604,2,2,Confirmed,1,913,Full,gDNA
 KIR3DP1*00605,2,1,Confirmed,1,913,Full,gDNA
 KIR3DP1*007,2,2,Confirmed,1,949,Full,cDNA
 KIR3DP1*008,1,1,Unconfirmed,1,913,Full,cDNA
@@ -1503,7 +1533,7 @@ KIR3DP1*052,2,1,Confirmed,1,913,Full,gDNA
 KIR3DS1*010,1,1,Unconfirmed,1,1164,Full,cDNA
 KIR3DS1*011,1,1,Unconfirmed,1,1149,Partial,cDNA
 KIR3DS1*012,1,1,Unconfirmed,1,1149,Partial,cDNA
-KIR3DS1*0130101,9,5,Confirmed,1,1165,Full,gDNA
+KIR3DS1*0130101,10,6,Confirmed,1,1165,Full,gDNA
 KIR3DS1*0130102,1,1,Unconfirmed,1,1165,Full,gDNA
 KIR3DS1*0130103,1,1,Unconfirmed,1,1165,Full,gDNA
 KIR3DS1*0130104,1,1,Unconfirmed,1,1165,Full,gDNA
@@ -1514,20 +1544,49 @@ KIR3DS1*0130108,1,1,Unconfirmed,1,1165,Full,gDNA
 KIR3DS1*0130109,1,1,Unconfirmed,1,1165,Full,gDNA
 KIR3DS1*0130110,1,1,Unconfirmed,1,1165,Full,gDNA
 KIR3DS1*0130111,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130112,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130113,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*0130114,3,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*0130115,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*0130116,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130117,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130118,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*0130119,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130120,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130121,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130122,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*0130123,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130124,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130125,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130126,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130127,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*0130128,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*0130129,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130130,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130131,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*0130132,1,1,Unconfirmed,1,1165,Full,gDNA
 KIR3DS1*01302,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*01303,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*01304,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*01305,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*01306,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*01307,1,1,Unconfirmed,1,1165,Full,cDNA
+KIR3DS1*01308,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*01309,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*01310,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*01311,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*01312,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*01313,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*01314,1,1,Unconfirmed,1,1165,Full,gDNA
 KIR3DS1*014,4,3,Confirmed,1,1165,Full,cDNA
 KIR3DS1*045,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*046,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*047,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*048,1,1,Unconfirmed,1,1165,Full,cDNA
-KIR3DS1*049N,4,3,Confirmed,1,1164,Full,cDNA
+KIR3DS1*04901N,4,3,Confirmed,1,1164,Full,cDNA
+KIR3DS1*04902N,2,1,Confirmed,1,1164,Full,gDNA
 KIR3DS1*050,1,1,Unconfirmed,1,1149,Partial,cDNA
-KIR3DS1*055,1,1,Unconfirmed,1,1165,Full,cDNA
+KIR3DS1*055,1,1,Unconfirmed,1,1165,Full,gDNA
 KIR3DS1*058,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*078,3,3,Confirmed,1,1165,Full,gDNA
 KIR3DS1*082,1,1,Unconfirmed,1,1165,Full,cDNA
@@ -1539,3 +1598,26 @@ KIR3DS1*105,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*106,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*107,1,1,Unconfirmed,1,1165,Full,cDNA
 KIR3DS1*108,1,1,Unconfirmed,1,1165,Full,cDNA
+KIR3DS1*122,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*1230101,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*1230102,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*1230103,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*1240101,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*1240102,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*1250101,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*1250102,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*126,1,1,Unconfirmed,1,1167,Full,gDNA
+KIR3DS1*1270101,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*1270102,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*1280101,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*1280102,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*129,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*1300101,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*1300102,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*131,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*132,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*1330101,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*1330102,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*134,1,1,Unconfirmed,1,1165,Full,gDNA
+KIR3DS1*135,2,1,Confirmed,1,1165,Full,gDNA
+KIR3DS1*136,2,1,Confirmed,1,1165,Full,gDNA
