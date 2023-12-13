@@ -25,6 +25,8 @@ This directory contains data for the IPD-KIR Sequence Database. The database pro
 * Updated: 11 December 2019,  Release 2.9.0
 * Updated: 16 December 2020,  Release 2.10.0
 * Updated: 17 December 2021,  Release 2.11.0
+* Updated: 12 December 2022,  Release 2.12.0
+* Updated: 13 December 2023,  Release 2.13.0
 
 
 Files are currently provided for the nucleotide and protein sequences in FASTA, PIR and MSF format.
@@ -73,6 +75,11 @@ Files designated “X_gen.pir”, where X is a locus or gene, contain genomic DN
 ### XML 
 
 A beta-version of an XML formatted export of the IPD-KIR sequences, both XML and XSD files are provided.
+
+As of release 2.13.0 the following changes have been made to the kir.xml:
+ 
+* <ethnicity> and <sample_ethnicity> tags will be changed to <ancestry> and <sample_ancestry> tags respectively.
+* The <releaseversions> tag has the additional "releasecomments" attribute which includes information changes to the allele in this release.
 
 ### Other Files
 

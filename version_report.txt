@@ -1,98 +1,644 @@
 # file: version_report.txt
-# date: 2022-12-12
-# version: IPD-KIR 2.12.0
+# date: 2023-12-13
+# version: IPD-KIR 2.13.0
 # repository: https://raw.githubusercontent.com/ANHIG/IPDKIR/Latest/version_report.txt
 # origin: https://github.com/ANHIG/IPDKIR/version_report.txt
 # author: Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 Status,Alleles,AlleleID,Comments
-New,2DL1*00308,KIR01625,
-New,2DL1*00309,KIR01627,
-New,2DL1*00406,KIR01623,
-New,2DL1*069,KIR01628,
-New,2DL1*070,KIR01620,
-New,2DL1*071,KIR01624,
-New,2DL1*072,KIR01612,
-New,2DL1*073,KIR01616,
-New,2DL1*074,KIR01617,
-New,2DL1*075,KIR01682,
-New,2DL1*076,KIR01683,
-New,2DL1*077,KIR01684,
-New,2DL2*016,KIR01691,
-New,2DL3*00111,KIR01618,
-New,2DL3*00112,KIR01621,
-New,2DL3*00503,KIR01681,
-New,2DL3*037,KIR01614,
-New,2DL4*00108,KIR01613,
-New,2DL4*059,KIR01690,
-New,2DL5A*042,KIR01687,
-New,2DS4*023,KIR01686,
-New,2DS4*024,KIR01688,
-New,3DL1*00703,KIR01611,
-New,3DL1*01507,KIR01626,
-New,3DL1*01508,KIR01619,
-New,3DL1*120,KIR01622,
-New,3DL1*121,KIR01615,
-New,3DL2*00802,KIR01692,
-New,3DL2*117,KIR01689,
-New,3DL3*115,KIR01685,
-New,3DS1*0130112,KIR01641,Genomic Sequence
-New,3DS1*0130113,KIR01672,Genomic Sequence
-New,3DS1*0130114,KIR01635,Genomic Sequence
-New,3DS1*0130115,KIR01638,Genomic Sequence
-New,3DS1*0130116,KIR01678,Genomic Sequence
-New,3DS1*0130117,KIR01631,Genomic Sequence
-New,3DS1*0130118,KIR01667,Genomic Sequence
-New,3DS1*0130119,KIR01659,Genomic Sequence
-New,3DS1*0130120,KIR01648,Genomic Sequence
-New,3DS1*0130121,KIR01653,Genomic Sequence
-New,3DS1*0130122,KIR01661,Genomic Sequence
-New,3DS1*0130123,KIR01656,Genomic Sequence
-New,3DS1*0130124,KIR01657,Genomic Sequence
-New,3DS1*0130125,KIR01662,Genomic Sequence
-New,3DS1*0130126,KIR01654,Genomic Sequence
-New,3DS1*0130127,KIR01633,Genomic Sequence
-New,3DS1*0130128,KIR01670,Genomic Sequence
-New,3DS1*0130129,KIR01634,Genomic Sequence
-New,3DS1*0130130,KIR01629,Genomic Sequence
-New,3DS1*0130131,KIR01644,Genomic Sequence
-New,3DS1*0130132,KIR01674,Genomic Sequence
-New,3DS1*01308,KIR01639,Genomic Sequence
-New,3DS1*01309,KIR01666,Genomic Sequence
-New,3DS1*01310,KIR01665,Genomic Sequence
-New,3DS1*01311,KIR01649,Genomic Sequence
-New,3DS1*01312,KIR01651,Genomic Sequence
-New,3DS1*01313,KIR01658,Genomic Sequence
-New,3DS1*01314,KIR01664,Genomic Sequence
-New,3DS1*04902N,KIR01630,Genomic Sequence
-New,3DS1*122,KIR01675,Genomic Sequence
-New,3DS1*1230101,KIR01676,Genomic Sequence
-New,3DS1*1230102,KIR01673,Genomic Sequence
-New,3DS1*1230103,KIR01642,Genomic Sequence
-New,3DS1*1240101,KIR01677,Genomic Sequence
-New,3DS1*1240102,KIR01650,Genomic Sequence
-New,3DS1*1250101,KIR01679,Genomic Sequence
-New,3DS1*1250102,KIR01643,Genomic Sequence
-New,3DS1*126,KIR01637,Genomic Sequence
-New,3DS1*1270101,KIR01645,Genomic Sequence
-New,3DS1*1270102,KIR01671,Genomic Sequence
-New,3DS1*1280101,KIR01636,Genomic Sequence
-New,3DS1*1280102,KIR01655,Genomic Sequence
-New,3DS1*129,KIR01632,Genomic Sequence
-New,3DS1*1300101,KIR01680,Genomic Sequence
-New,3DS1*1300102,KIR01663,Genomic Sequence
-New,3DS1*131,KIR01669,Genomic Sequence
-New,3DS1*132,KIR01668,Genomic Sequence
-New,3DS1*1330101,KIR01660,Genomic Sequence
-New,3DS1*1330102,KIR01640,Genomic Sequence
-New,3DS1*134,KIR01647,Genomic Sequence
-New,3DS1*135,KIR01646,Genomic Sequence
-New,3DS1*136,KIR01652,Genomic Sequence
+New,2DL1*0010105,KIR01849,Genomic Sequence
+New,2DL1*0010106,KIR01852,Genomic Sequence
+New,2DL1*0010107,KIR01811,Genomic Sequence
+New,2DL1*00102,KIR01977,Genomic Sequence
+New,2DL1*00103,KIR02058,Genomic Sequence
+New,2DL1*0020120,KIR01833,Genomic Sequence
+New,2DL1*0020121,KIR01974,Genomic Sequence
+New,2DL1*0020122,KIR01988,Genomic Sequence
+New,2DL1*0020123,KIR01943,Genomic Sequence
+New,2DL1*0020124,KIR01904,Genomic Sequence
+New,2DL1*0020125,KIR01859,Genomic Sequence
+New,2DL1*0020126,KIR01924,Genomic Sequence
+New,2DL1*0020127,KIR01946,Genomic Sequence
+New,2DL1*0020128,KIR02035,Genomic Sequence
+New,2DL1*0020129,KIR01781,Genomic Sequence
+New,2DL1*0020130,KIR02017,Genomic Sequence
+New,2DL1*0020131,KIR02036,Genomic Sequence
+New,2DL1*0020132,KIR01862,Genomic Sequence
+New,2DL1*0020133,KIR01930,Genomic Sequence
+New,2DL1*0020134,KIR01947,Genomic Sequence
+New,2DL1*0020135,KIR01853,Genomic Sequence
+New,2DL1*0020136,KIR01971,Genomic Sequence
+New,2DL1*0020137,KIR01901,Genomic Sequence
+New,2DL1*0020138,KIR02029,Genomic Sequence
+New,2DL1*0020139,KIR01780,Genomic Sequence
+New,2DL1*0020140,KIR01799,Genomic Sequence
+New,2DL1*0020141,KIR01902,Genomic Sequence
+New,2DL1*0020142,KIR01921,Genomic Sequence
+New,2DL1*0020143,KIR02030,Genomic Sequence
+New,2DL1*0020144,KIR01886,Genomic Sequence
+New,2DL1*0020202,KIR02007,Genomic Sequence
+New,2DL1*0020301,KIR01967,Genomic Sequence
+New,2DL1*0020302,KIR01871,Genomic Sequence
+New,2DL1*00204,KIR01998,Genomic Sequence
+New,2DL1*0020501,KIR01905,Genomic Sequence
+New,2DL1*0020502,KIR01873,Genomic Sequence
+New,2DL1*0020503,KIR01888,Genomic Sequence
+New,2DL1*0030244,KIR01981,Genomic Sequence
+New,2DL1*0030245,KIR01869,Genomic Sequence
+New,2DL1*0030246,KIR01882,Genomic Sequence
+New,2DL1*0030247,KIR01936,Genomic Sequence
+New,2DL1*0030248,KIR01895,Genomic Sequence
+New,2DL1*0030249,KIR01855,Genomic Sequence
+New,2DL1*0030250,KIR01878,Genomic Sequence
+New,2DL1*0030251,KIR01937,Genomic Sequence
+New,2DL1*0030252,KIR01896,Genomic Sequence
+New,2DL1*0030253,KIR01935,Genomic Sequence
+New,2DL1*0030254,KIR01966,Genomic Sequence
+New,2DL1*0030255,KIR01906,Genomic Sequence
+New,2DL1*0030256,KIR01821,Genomic Sequence
+New,2DL1*0030257,KIR01840,Genomic Sequence
+New,2DL1*0030258,KIR01834,Genomic Sequence
+New,2DL1*0030259,KIR02034,Genomic Sequence
+New,2DL1*0030260,KIR02026,Genomic Sequence
+New,2DL1*0030261,KIR01794,Genomic Sequence
+New,2DL1*0030262,KIR01816,Genomic Sequence
+New,2DL1*0030263,KIR01993,Genomic Sequence
+New,2DL1*0030264,KIR02044,Genomic Sequence
+New,2DL1*0030265,KIR01772,Genomic Sequence
+New,2DL1*0030266,KIR01908,Genomic Sequence
+New,2DL1*0030267,KIR01863,Genomic Sequence
+New,2DL1*0030268,KIR01910,Genomic Sequence
+New,2DL1*0030269,KIR01861,Genomic Sequence
+New,2DL1*0030270,KIR01985,Genomic Sequence
+New,2DL1*0030271,KIR01919,Genomic Sequence
+New,2DL1*0030272,KIR01856,Genomic Sequence
+New,2DL1*0030273,KIR01957,Genomic Sequence
+New,2DL1*0030274,KIR01820,Genomic Sequence
+New,2DL1*0030275,KIR01802,Genomic Sequence
+New,2DL1*0030276,KIR02052,Genomic Sequence
+New,2DL1*0030277,KIR01997,Genomic Sequence
+New,2DL1*0030278,KIR01994,Genomic Sequence
+New,2DL1*0030279,KIR02053,Genomic Sequence
+New,2DL1*0030280,KIR02032,Genomic Sequence
+New,2DL1*0030281,KIR02028,Genomic Sequence
+New,2DL1*0030282,KIR01836,Genomic Sequence
+New,2DL1*0030283,KIR02010,Genomic Sequence
+New,2DL1*0030284,KIR02041,Genomic Sequence
+New,2DL1*0030285,KIR01847,Genomic Sequence
+New,2DL1*0030286,KIR02059,Genomic Sequence
+New,2DL1*0030287,KIR02039,Genomic Sequence
+New,2DL1*0030288,KIR01865,Genomic Sequence
+New,2DL1*0030289,KIR01949,Genomic Sequence
+New,2DL1*0030290,KIR01912,Genomic Sequence
+New,2DL1*0030291,KIR01932,Genomic Sequence
+New,2DL1*0030292,KIR01914,Genomic Sequence
+New,2DL1*0030293,KIR01884,Genomic Sequence
+New,2DL1*0030294,KIR01986,Genomic Sequence
+New,2DL1*0030295,KIR01801,Genomic Sequence
+New,2DL1*0030296,KIR01770,Genomic Sequence
+New,2DL1*0030297,KIR01809,Genomic Sequence
+New,2DL1*0030298,KIR01826,Genomic Sequence
+New,2DL1*0031001,KIR01857,Genomic Sequence
+New,2DL1*0031002,KIR02057,Genomic Sequence
+New,2DL1*0031003,KIR01979,Genomic Sequence
+New,2DL1*0031004,KIR02031,Genomic Sequence
+New,2DL1*00311,KIR01926,Genomic Sequence
+New,2DL1*0031201,KIR01987,Genomic Sequence
+New,2DL1*0031202,KIR01818,Genomic Sequence
+New,2DL1*00313,KIR01892,Genomic Sequence
+New,2DL1*0031401,KIR01969,Genomic Sequence
+New,2DL1*0031402,KIR01925,Genomic Sequence
+New,2DL1*00315,KIR01867,Genomic Sequence
+New,2DL1*0031601,KIR01945,Genomic Sequence
+New,2DL1*0031602,KIR02049,Genomic Sequence
+New,2DL1*00317,KIR01864,Genomic Sequence
+New,2DL1*0031801,KIR01933,Genomic Sequence
+New,2DL1*0031802,KIR02008,Genomic Sequence
+New,2DL1*0031803,KIR02054,Genomic Sequence
+New,2DL1*0031901,KIR02033,Genomic Sequence
+New,2DL1*0031902,KIR01972,Genomic Sequence
+New,2DL1*0032001,KIR02055,Genomic Sequence
+New,2DL1*0032002,KIR01929,Genomic Sequence
+New,2DL1*0032003,KIR01978,Genomic Sequence
+New,2DL1*0032004,KIR01789,Genomic Sequence
+New,2DL1*0040118,KIR01990,Genomic Sequence
+New,2DL1*0040119,KIR01858,Genomic Sequence
+New,2DL1*0040120,KIR01903,Genomic Sequence
+New,2DL1*0040121,KIR01958,Genomic Sequence
+New,2DL1*0040122,KIR01983,Genomic Sequence
+New,2DL1*0040123,KIR01776,Genomic Sequence
+New,2DL1*0040124,KIR01783,Genomic Sequence
+New,2DL1*0040125,KIR02014,Genomic Sequence
+New,2DL1*0040126,KIR01796,Genomic Sequence
+New,2DL1*0040127,KIR01845,Genomic Sequence
+New,2DL1*0040128,KIR01965,Genomic Sequence
+New,2DL1*0040129,KIR01883,Genomic Sequence
+New,2DL1*0040130,KIR01868,Genomic Sequence
+New,2DL1*0040131,KIR01996,Genomic Sequence
+New,2DL1*0040132,KIR01810,Genomic Sequence
+New,2DL1*0040133,KIR02040,Genomic Sequence
+New,2DL1*0040134,KIR02201,Genomic Sequence
+New,2DL1*0040202,KIR01938,Genomic Sequence
+New,2DL1*00407,KIR01880,Genomic Sequence
+New,2DL1*00408,KIR02022,Genomic Sequence
+New,2DL1*0040901,KIR01950,Genomic Sequence
+New,2DL1*0040902,KIR01874,Genomic Sequence
+New,2DL1*0040903,KIR02043,Genomic Sequence
+New,2DL1*0040904,KIR01827,Genomic Sequence
+New,2DL1*00410,KIR01838,Genomic Sequence
+New,2DL1*0070102,KIR01893,Genomic Sequence
+New,2DL1*0070103,KIR01942,Genomic Sequence
+New,2DL1*0070104,KIR01879,Genomic Sequence
+New,2DL1*0070105,KIR01795,Genomic Sequence
+New,2DL1*00702,KIR01876,Genomic Sequence
+New,2DL1*0080102,KIR01955,Genomic Sequence
+New,2DL1*01103,KIR02090,Genomic Sequence
+New,2DL1*0370201,KIR01860,Genomic Sequence
+New,2DL1*0370202,KIR02011,Genomic Sequence
+New,2DL1*0400102,KIR01815,Genomic Sequence
+New,2DL1*0430103,KIR01959,Genomic Sequence
+New,2DL1*0430104,KIR01917,Genomic Sequence
+New,2DL1*0430105,KIR01788,Genomic Sequence
+New,2DL1*0570102,KIR01848,Genomic Sequence
+New,2DL1*0690102,KIR02242,Genomic Sequence
+New,2DL1*0780101,KIR01934,Genomic Sequence
+New,2DL1*0780102,KIR01952,Genomic Sequence
+New,2DL1*0780103,KIR01899,Genomic Sequence
+New,2DL1*079,KIR01944,Genomic Sequence
+New,2DL1*080,KIR01968,Genomic Sequence
+New,2DL1*0810101,KIR01982,Genomic Sequence
+New,2DL1*0810102,KIR01881,Genomic Sequence
+New,2DL1*082,KIR01951,Genomic Sequence
+New,2DL1*0830101,KIR01835,Genomic Sequence
+New,2DL1*0830102,KIR02168,Genomic Sequence
+New,2DL1*084,KIR01897,Genomic Sequence
+New,2DL1*0850101,KIR01918,Genomic Sequence
+New,2DL1*0850102,KIR01894,Genomic Sequence
+New,2DL1*0850103,KIR01954,Genomic Sequence
+New,2DL1*086,KIR01872,Genomic Sequence
+New,2DL1*0870101,KIR01980,Genomic Sequence
+New,2DL1*0870102,KIR01984,Genomic Sequence
+New,2DL1*0870103,KIR01798,Genomic Sequence
+New,2DL1*088,KIR01916,Genomic Sequence
+New,2DL1*0890101,KIR01900,Genomic Sequence
+New,2DL1*0890102,KIR01953,Genomic Sequence
+New,2DL1*090,KIR01923,Genomic Sequence
+New,2DL1*0910101,KIR01975,Genomic Sequence
+New,2DL1*0910102,KIR01787,Genomic Sequence
+New,2DL1*092,KIR01960,Genomic Sequence
+New,2DL1*0930101,KIR01989,Genomic Sequence
+New,2DL1*0930102,KIR01841,Genomic Sequence
+New,2DL1*094N,KIR01915,Genomic Sequence
+New,2DL1*0950101,KIR01976,Genomic Sequence
+New,2DL1*0950102,KIR01850,Genomic Sequence
+New,2DL1*0950103,KIR01922,Genomic Sequence
+New,2DL1*096,KIR01907,Genomic Sequence
+New,2DL1*0970101,KIR01870,Genomic Sequence
+New,2DL1*0970102,KIR01803,Genomic Sequence
+New,2DL1*098,KIR01784,Genomic Sequence
+New,2DL1*0990101,KIR01800,Genomic Sequence
+New,2DL1*0990102,KIR01854,Genomic Sequence
+New,2DL1*0990103,KIR01956,Genomic Sequence
+New,2DL1*100Q,KIR01775,Genomic Sequence
+New,2DL1*1010101,KIR02027,Genomic Sequence
+New,2DL1*1010102,KIR02020,Genomic Sequence
+New,2DL1*102,KIR02047,Genomic Sequence
+New,2DL1*1030101,KIR02013,Genomic Sequence
+New,2DL1*1030102,KIR02019,Genomic Sequence
+New,2DL1*104,KIR02000,Genomic Sequence
+New,2DL1*1050101,KIR01999,Genomic Sequence
+New,2DL1*1050102,KIR01939,Genomic Sequence
+New,2DL1*1050103,KIR01817,Genomic Sequence
+New,2DL1*106,KIR01782,Genomic Sequence
+New,2DL1*1070101,KIR02048,Genomic Sequence
+New,2DL1*1070102,KIR01973,Genomic Sequence
+New,2DL1*108,KIR01839,Genomic Sequence
+New,2DL1*1090101,KIR01813,Genomic Sequence
+New,2DL1*1090102,KIR01891,Genomic Sequence
+New,2DL1*1090103,KIR01797,Genomic Sequence
+New,2DL1*110,KIR02005,Genomic Sequence
+New,2DL1*1110101,KIR01777,Genomic Sequence
+New,2DL1*1110102,KIR01819,Genomic Sequence
+New,2DL1*1110103,KIR02004,Genomic Sequence
+New,2DL1*112,KIR01791,Genomic Sequence
+New,2DL1*1130101,KIR01790,Genomic Sequence
+New,2DL1*1130102,KIR01887,Genomic Sequence
+New,2DL1*114N,KIR01829,Genomic Sequence
+New,2DL1*1150101,KIR02024,Genomic Sequence
+New,2DL1*1150102,KIR01807,Genomic Sequence
+New,2DL1*1150103,KIR01837,Genomic Sequence
+New,2DL1*116,KIR01963,Genomic Sequence
+New,2DL1*1170101,KIR01824,Genomic Sequence
+New,2DL1*1170102,KIR02050,Genomic Sequence
+New,2DL1*118,KIR01940,Genomic Sequence
+New,2DL1*1190101,KIR01962,Genomic Sequence
+New,2DL1*1190102,KIR01779,Genomic Sequence
+New,2DL1*120,KIR01927,Genomic Sequence
+New,2DL1*1210101,KIR01913,Genomic Sequence
+New,2DL1*1210102,KIR02051,Genomic Sequence
+New,2DL1*122,KIR01941,Genomic Sequence
+New,2DL1*123,KIR01898,Genomic Sequence
+New,2DL1*124,KIR02009,Genomic Sequence
+New,2DL1*1250101,KIR01875,Genomic Sequence
+New,2DL1*1250102,KIR02102,Genomic Sequence
+New,2DL1*1260101,KIR01877,Genomic Sequence
+New,2DL1*1260102,KIR02158,Genomic Sequence
+New,2DL1*127,KIR01828,Genomic Sequence
+New,2DL1*128,KIR01778,Genomic Sequence
+New,2DL1*1290101,KIR02003,Genomic Sequence
+New,2DL1*1290102,KIR01995,Genomic Sequence
+New,2DL1*130,KIR01961,Genomic Sequence
+New,2DL1*131,KIR02012,Genomic Sequence
+New,2DP1*0010204,KIR01753,Genomic Sequence
+New,2DP1*0010205,KIR01705,Genomic Sequence
+New,2DP1*0010206,KIR01720,Genomic Sequence
+New,2DP1*0010207,KIR01694,Genomic Sequence
+New,2DP1*0010208,KIR01701,Genomic Sequence
+New,2DP1*0010209,KIR01758,Genomic Sequence
+New,2DP1*0010210,KIR01748,Genomic Sequence
+New,2DP1*0010211,KIR01723,Genomic Sequence
+New,2DP1*0010212,KIR01729,Genomic Sequence
+New,2DP1*0010401,KIR01718,Genomic Sequence
+New,2DP1*0010402,KIR01747,Genomic Sequence
+New,2DP1*00105,KIR01721,Genomic Sequence
+New,2DP1*00106,KIR01733,Genomic Sequence
+New,2DP1*00107,KIR01738,Genomic Sequence
+New,2DP1*00108,KIR00475,2DP1*006 has been renamed 2DP1*00108
+New,2DP1*0020111,KIR01740,Genomic Sequence
+New,2DP1*0020112,KIR01762,Genomic Sequence
+New,2DP1*0020113,KIR01745,Genomic Sequence
+New,2DP1*0020114,KIR01724,Genomic Sequence
+New,2DP1*0020115,KIR01768,Genomic Sequence
+New,2DP1*0020116,KIR01741,Genomic Sequence
+New,2DP1*0020117,KIR01767,Genomic Sequence
+New,2DP1*0020118,KIR01755,Genomic Sequence
+New,2DP1*0020119,KIR01696,Genomic Sequence
+New,2DP1*0020120,KIR01715,Genomic Sequence
+New,2DP1*0020121,KIR01750,Genomic Sequence
+New,2DP1*0020122,KIR01697,Genomic Sequence
+New,2DP1*0020123,KIR01732,Genomic Sequence
+New,2DP1*0020124,KIR01735,Genomic Sequence
+New,2DP1*0020125,KIR01726,Genomic Sequence
+New,2DP1*0020126,KIR01730,Genomic Sequence
+New,2DP1*0020127,KIR01737,Genomic Sequence
+New,2DP1*0020302,KIR01695,Genomic Sequence
+New,2DP1*0020303,KIR01702,Genomic Sequence
+New,2DP1*0020304,KIR01703,Genomic Sequence
+New,2DP1*00205,KIR01754,Genomic Sequence
+New,2DP1*0030103,KIR01725,Genomic Sequence
+New,2DP1*0030104,KIR01746,Genomic Sequence
+New,2DP1*0030105,KIR01698,Genomic Sequence
+New,2DP1*0030106,KIR01744,Genomic Sequence
+New,2DP1*0030107,KIR01756,Genomic Sequence
+New,2DP1*0030108,KIR01713,Genomic Sequence
+New,2DP1*00302,KIR01711,Genomic Sequence
+New,2DP1*00303,KIR01743,Genomic Sequence
+New,2DP1*0040102,KIR01693,Genomic Sequence
+New,2DP1*0080102,KIR01769,Genomic Sequence
+New,2DP1*0090102,KIR01734,Genomic Sequence
+New,2DP1*0160102,KIR01704,Genomic Sequence
+New,2DP1*0160103,KIR01712,Genomic Sequence
+New,2DP1*0160104,KIR01731,Genomic Sequence
+New,2DP1*0160201,KIR01708,Genomic Sequence
+New,2DP1*0160202,KIR01761,Genomic Sequence
+New,2DP1*01603,KIR01727,Genomic Sequence
+New,2DP1*02102,KIR00953,2DP1*024 has been renamed 2DP1*02102
+New,2DP1*0250101,KIR01752,Genomic Sequence
+New,2DP1*0250102,KIR01716,Genomic Sequence
+New,2DP1*0250201,KIR01719,Genomic Sequence
+New,2DP1*0250202,KIR01706,Genomic Sequence
+New,2DP1*0250203,KIR01759,Genomic Sequence
+New,2DP1*0250204,KIR01714,Genomic Sequence
+New,2DP1*026,KIR01736,Genomic Sequence
+New,2DP1*027,KIR01700,Genomic Sequence
+New,2DP1*0280101,KIR01699,Genomic Sequence
+New,2DP1*0280102,KIR01751,Genomic Sequence
+New,2DP1*0280103,KIR01763,Genomic Sequence
+New,2DP1*029,KIR01707,Genomic Sequence
+New,2DP1*030,KIR01760,Genomic Sequence
+New,2DP1*031,KIR01710,Genomic Sequence
+New,2DP1*0320101,KIR01709,Genomic Sequence
+New,2DP1*0320102,KIR01765,Genomic Sequence
+New,2DP1*033,KIR01764,Genomic Sequence
+New,2DP1*0340101,KIR01739,Genomic Sequence
+New,2DP1*0340102,KIR01728,Genomic Sequence
+New,2DP1*035,KIR01766,Genomic Sequence
+New,2DP1*036,KIR01717,Genomic Sequence
+New,2DP1*037,KIR01722,Genomic Sequence
+New,3DL1*0010112,KIR01911,Genomic Sequence
+New,3DL1*0010113,KIR01931,Genomic Sequence
+New,3DL1*0010114,KIR02015,Genomic Sequence
+New,3DL1*0010115,KIR02188,Genomic Sequence
+New,3DL1*0010116,KIR02278,Genomic Sequence
+New,3DL1*0010117,KIR02250,Genomic Sequence
+New,3DL1*0010118,KIR02267,Genomic Sequence
+New,3DL1*0010119,KIR02169,Genomic Sequence
+New,3DL1*00106,KIR01812,Genomic Sequence
+New,3DL1*00107,KIR02038,Genomic Sequence
+New,3DL1*0010801,KIR02042,Genomic Sequence
+New,3DL1*0010802,KIR02140,Genomic Sequence
+New,3DL1*0010803,KIR02129,Genomic Sequence
+New,3DL1*00109,KIR02037,Genomic Sequence
+New,3DL1*0020106,KIR02046,Genomic Sequence
+New,3DL1*0020107,KIR02018,Genomic Sequence
+New,3DL1*0020108,KIR02181,Genomic Sequence
+New,3DL1*0020109,KIR02121,Genomic Sequence
+New,3DL1*0020201,KIR01885,Genomic Sequence
+New,3DL1*0020202,KIR01822,Genomic Sequence
+New,3DL1*0040110,KIR01889,Genomic Sequence
+New,3DL1*0040111,KIR01992,Genomic Sequence
+New,3DL1*0040112,KIR02219,Genomic Sequence
+New,3DL1*0040113,KIR02160,Genomic Sequence
+New,3DL1*0040114,KIR02126,Genomic Sequence
+New,3DL1*0040115,KIR02222,Genomic Sequence
+New,3DL1*0040116,KIR02180,Genomic Sequence
+New,3DL1*0040117,KIR02218,Genomic Sequence
+New,3DL1*0040118,KIR02261,Genomic Sequence
+New,3DL1*0040119,KIR02061,Genomic Sequence
+New,3DL1*0040120,KIR02092,Genomic Sequence
+New,3DL1*0040121,KIR02086,Genomic Sequence
+New,3DL1*0040122,KIR02286,Genomic Sequence
+New,3DL1*0040202,KIR01948,Genomic Sequence
+New,3DL1*0040203,KIR02002,Genomic Sequence
+New,3DL1*0040501,KIR01991,Genomic Sequence
+New,3DL1*0040502,KIR02101,Genomic Sequence
+New,3DL1*00406,KIR02023,Genomic Sequence
+New,3DL1*0040701,KIR02070,Genomic Sequence
+New,3DL1*0040702,KIR02202,Genomic Sequence
+New,3DL1*0050112,KIR01825,Genomic Sequence
+New,3DL1*0050113,KIR01773,Genomic Sequence
+New,3DL1*0050114,KIR02146,Genomic Sequence
+New,3DL1*0050115,KIR02105,Genomic Sequence
+New,3DL1*00506,KIR01843,Genomic Sequence
+New,3DL1*0060102,KIR02292,Genomic Sequence
+New,3DL1*0070401,KIR02208,Genomic Sequence
+New,3DL1*0070402,KIR02200,Genomic Sequence
+New,3DL1*0080103,KIR01823,Genomic Sequence
+New,3DL1*0150219,KIR01970,Genomic Sequence
+New,3DL1*0150220,KIR01792,Genomic Sequence
+New,3DL1*0150221,KIR02016,Genomic Sequence
+New,3DL1*0150222Q,KIR02125,Genomic Sequence
+New,3DL1*0150223,KIR02189,Genomic Sequence
+New,3DL1*01509,KIR01920,Genomic Sequence
+New,3DL1*0170102,KIR02149,Genomic Sequence
+New,3DL1*0290103,KIR02100,Genomic Sequence
+New,3DL1*137,KIR01844,Genomic Sequence
+New,3DL1*138,KIR01830,Genomic Sequence
+New,3DL1*139,KIR01793,Genomic Sequence
+New,3DL1*140,KIR02006,Genomic Sequence
+New,3DL1*141,KIR01851,Genomic Sequence
+New,3DL1*1420101,KIR01774,Genomic Sequence
+New,3DL1*1420102,KIR02235,Genomic Sequence
+New,3DL1*143,KIR02056,Genomic Sequence
+New,3DL1*1440101,KIR01964,Genomic Sequence
+New,3DL1*1440102,KIR02162,Genomic Sequence
+New,3DL1*145,KIR01842,Genomic Sequence
+New,3DL1*1460101,KIR02021,Genomic Sequence
+New,3DL1*1460102,KIR02285,Genomic Sequence
+New,3DL1*1470101,KIR01866,Genomic Sequence
+New,3DL1*1470102,KIR02093,Genomic Sequence
+New,3DL1*148,KIR01928,Genomic Sequence
+New,3DL1*1490101,KIR01806,Genomic Sequence
+New,3DL1*1490102,KIR01831,Genomic Sequence
+New,3DL1*15001,KIR01832,Genomic Sequence
+New,3DL1*15002,KIR02131,Genomic Sequence
+New,3DL1*151,KIR01805,Genomic Sequence
+New,3DL1*152,KIR01846,Genomic Sequence
+New,3DL1*153,KIR02025,Genomic Sequence
+New,3DL1*154,KIR02045,Genomic Sequence
+New,3DL1*155,KIR01909,Genomic Sequence
+New,3DL1*1560101,KIR01785,Genomic Sequence
+New,3DL1*1560102,KIR02085,Genomic Sequence
+New,3DL1*157,KIR01786,Genomic Sequence
+New,3DL1*158,KIR02001,Genomic Sequence
+New,3DL1*1590101,KIR01890,Genomic Sequence
+New,3DL1*1590102,KIR02243,Genomic Sequence
+New,3DL1*160,KIR01771,Genomic Sequence
+New,3DL1*161,KIR01804,Genomic Sequence
+New,3DL1*162,KIR01814,Genomic Sequence
+New,3DL1*163Q,KIR01808,Genomic Sequence
+New,3DL1*1640101,KIR02233,Genomic Sequence
+New,3DL1*1640102,KIR02209,Genomic Sequence
+New,3DL1*1640103,KIR02210,Genomic Sequence
+New,3DL1*165,KIR02159,Genomic Sequence
+New,3DL1*1660101,KIR02124,Genomic Sequence
+New,3DL1*1660102,KIR02147,Genomic Sequence
+New,3DL1*167,KIR02204,Genomic Sequence
+New,3DL1*1680101N,KIR02272,Genomic Sequence
+New,3DL1*1680102N,KIR02234,Genomic Sequence
+New,3DL1*169,KIR02225,Genomic Sequence
+New,3DL1*1700101,KIR02256,Genomic Sequence
+New,3DL1*1700102,KIR02120,Genomic Sequence
+New,3DL1*171,KIR02211,Genomic Sequence
+New,3DL1*1720101,KIR02179,Genomic Sequence
+New,3DL1*1720102,KIR02110,Genomic Sequence
+New,3DL1*173,KIR02130,Genomic Sequence
+New,3DL1*174,KIR02279,Genomic Sequence
+New,3DL1*1750101,KIR02257,Genomic Sequence
+New,3DL1*1750102,KIR02266,Genomic Sequence
+New,3DL1*176,KIR02284,Genomic Sequence
+New,3DL1*1770101,KIR02074,Genomic Sequence
+New,3DL1*1770102,KIR02273,Genomic Sequence
+New,3DL1*178,KIR02148,Genomic Sequence
+New,3DL1*179,KIR02141,Genomic Sequence
+New,3DL1*180,KIR02157,Genomic Sequence
+New,3DL1*181,KIR02109,Genomic Sequence
+New,3DL2*0010103,KIR02173,Genomic Sequence
+New,3DL2*0010104,KIR02246,Genomic Sequence
+New,3DL2*0010105,KIR02213,Genomic Sequence
+New,3DL2*0010106,KIR02174,Genomic Sequence
+New,3DL2*0010107,KIR02247,Genomic Sequence
+New,3DL2*0010108,KIR02229,Genomic Sequence
+New,3DL2*0010109,KIR02205,Genomic Sequence
+New,3DL2*0010110,KIR02221,Genomic Sequence
+New,3DL2*0010111,KIR02183,Genomic Sequence
+New,3DL2*0010303,KIR02228,Genomic Sequence
+New,3DL2*0010304,KIR02103,Genomic Sequence
+New,3DL2*0010305,KIR02104,Genomic Sequence
+New,3DL2*00110,KIR02134,Genomic Sequence
+New,3DL2*00111,KIR02203,Genomic Sequence
+New,3DL2*0020107,KIR02177,Genomic Sequence
+New,3DL2*0020108,KIR02194,Genomic Sequence
+New,3DL2*0020109,KIR02156,Genomic Sequence
+New,3DL2*0020110,KIR02166,Genomic Sequence
+New,3DL2*0020111,KIR02187,Genomic Sequence
+New,3DL2*0020112,KIR02182,Genomic Sequence
+New,3DL2*0020113,KIR02237,Genomic Sequence
+New,3DL2*0020114,KIR02161,Genomic Sequence
+New,3DL2*0020115,KIR02264,Genomic Sequence
+New,3DL2*00205,KIR02137,Genomic Sequence
+New,3DL2*00206,KIR02155,Genomic Sequence
+New,3DL2*00207,KIR02145,Genomic Sequence
+New,3DL2*0030102,KIR02139,Genomic Sequence
+New,3DL2*0050102,KIR02138,Genomic Sequence
+New,3DL2*00503,KIR02117,Genomic Sequence
+New,3DL2*0070104,KIR02135,Genomic Sequence
+New,3DL2*0070105,KIR02095,Genomic Sequence
+New,3DL2*0070106,KIR02195,Genomic Sequence
+New,3DL2*0070107,KIR02172,Genomic Sequence
+New,3DL2*0070108,KIR02123,Genomic Sequence
+New,3DL2*0070109,KIR02143,Genomic Sequence
+New,3DL2*0070110,KIR02206,Genomic Sequence
+New,3DL2*0070111,KIR02240,Genomic Sequence
+New,3DL2*0070112,KIR02223,Genomic Sequence
+New,3DL2*0070113,KIR02239,Genomic Sequence
+New,3DL2*0070114,KIR02220,Genomic Sequence
+New,3DL2*0071201,KIR02212,Genomic Sequence
+New,3DL2*0071202,KIR02118,Genomic Sequence
+New,3DL2*0071301,KIR02142,Genomic Sequence
+New,3DL2*0071302,KIR02122,Genomic Sequence
+New,3DL2*0080102,KIR02119,Genomic Sequence
+New,3DL2*0080103,KIR02167,Genomic Sequence
+New,3DL2*0090102,KIR02241,Genomic Sequence
+New,3DL2*01005,KIR02111,Genomic Sequence
+New,3DL2*0180102,KIR02128,Genomic Sequence
+New,3DL2*1180101,KIR02115,Genomic Sequence
+New,3DL2*1180102,KIR02165,Genomic Sequence
+New,3DL2*1180103,KIR02207,Genomic Sequence
+New,3DL2*119,KIR02230,Genomic Sequence
+New,3DL2*1200101,KIR02153,Genomic Sequence
+New,3DL2*1200102,KIR02196,Genomic Sequence
+New,3DL2*121,KIR02214,Genomic Sequence
+New,3DL2*1220101,KIR02154,Genomic Sequence
+New,3DL2*1220102,KIR02245,Genomic Sequence
+New,3DL2*123,KIR02175,Genomic Sequence
+New,3DL2*124,KIR02193,Genomic Sequence
+New,3DL2*1250101,KIR02152,Genomic Sequence
+New,3DL2*1250102,KIR02107,Genomic Sequence
+New,3DL2*126,KIR02197,Genomic Sequence
+New,3DL2*127,KIR02215,Genomic Sequence
+New,3DL2*128,KIR02116,Genomic Sequence
+New,3DL2*129N,KIR02136,Genomic Sequence
+New,3DL2*130,KIR02151,Genomic Sequence
+New,3DL2*131N,KIR02231,Genomic Sequence
+New,3DL2*132,KIR02096,Genomic Sequence
+New,3DL2*133,KIR02113,Genomic Sequence
+New,3DL2*134,KIR02150,Genomic Sequence
+New,3DL2*1350101,KIR02191,Genomic Sequence
+New,3DL2*1350102,KIR02164,Genomic Sequence
+New,3DL2*136,KIR02108,Genomic Sequence
+New,3DL2*137,KIR02127,Genomic Sequence
+New,3DL2*138,KIR02163,Genomic Sequence
+New,3DL2*1390101,KIR02144,Genomic Sequence
+New,3DL2*1390102,KIR02238,Genomic Sequence
+New,3DL2*140,KIR02185,Genomic Sequence
+New,3DL2*141N,KIR02184,Genomic Sequence
+New,3DL2*142,KIR02236,Genomic Sequence
+New,3DL2*143Q,KIR02106,Genomic Sequence
+New,3DL2*144,KIR02224,Genomic Sequence
+New,3DL2*145,KIR02186,Genomic Sequence
+New,3DL3*116,KIR01757,
+New,3DL3*117,KIR01742,
+New,3DL3*118,KIR01749,
+New,3DP1*0010102,KIR02081,Genomic Sequence
+New,3DP1*0010103,KIR02112,Genomic Sequence
+New,3DP1*0030104,KIR02079,Genomic Sequence
+New,3DP1*0030105,KIR02281,Genomic Sequence
+New,3DP1*0030218,KIR02275,Genomic Sequence
+New,3DP1*0030219,KIR02294,Genomic Sequence
+New,3DP1*0030220,KIR02258,Genomic Sequence
+New,3DP1*0030221,KIR02232,Genomic Sequence
+New,3DP1*00313,KIR02099,
+New,3DP1*00314,KIR02132,
+New,3DP1*00315,KIR02065,Genomic Sequence
+New,3DP1*00316,KIR02082,Genomic Sequence
+New,3DP1*00317,KIR02069,Genomic Sequence
+New,3DP1*00318,KIR02282,Genomic Sequence
+New,3DP1*00319,KIR02098,Genomic Sequence
+New,3DP1*00320,KIR01451,3DP1*046 has been renamed 3DP1*00320
+New,3DP1*00502,KIR02068,Genomic Sequence
+New,3DP1*0060105,KIR02198,Genomic Sequence
+New,3DP1*00606,KIR02251,Genomic Sequence
+New,3DP1*0090104,KIR02254,Genomic Sequence
+New,3DP1*0090105,KIR02289,Genomic Sequence
+New,3DP1*0090106,KIR02276,Genomic Sequence
+New,3DP1*0090107,KIR02060,
+New,3DP1*00903,KIR02283,Genomic Sequence
+New,3DP1*01006,KIR02280,Genomic Sequence
+New,3DP1*01007,KIR02226,Genomic Sequence
+New,3DP1*01402,KIR01452,3DP1*047 has been renamed 3DP1*01402
+New,3DP1*01503,KIR02291,Genomic Sequence
+New,3DP1*01602,KIR02071,Genomic Sequence
+New,3DP1*053,KIR02097,
+New,3DP1*054,KIR02171,
+New,3DP1*055,KIR02133,
+New,3DP1*0560101,KIR02227,Genomic Sequence
+New,3DP1*0560102,KIR02114,Genomic Sequence
+New,3DP1*05602,KIR02178,Genomic Sequence
+New,3DP1*057,KIR02288,Genomic Sequence
+New,3DP1*058,KIR02072,Genomic Sequence
+New,3DP1*0590101,KIR02255,
+New,3DP1*0590102,KIR02067,Genomic Sequence
+New,3DP1*060,KIR02263,Genomic Sequence
+New,3DP1*0610101,KIR02260,Genomic Sequence
+New,3DP1*0610102,KIR02253,Genomic Sequence
+New,3DP1*062,KIR02073,Genomic Sequence
+New,3DP1*0630101,KIR02252,Genomic Sequence
+New,3DP1*0630102,KIR02063,Genomic Sequence
+New,3DP1*06302,KIR02077,Genomic Sequence
+New,3DP1*064,KIR02089,Genomic Sequence
+New,3DP1*0650101,KIR02080,Genomic Sequence
+New,3DP1*0650102,KIR02087,Genomic Sequence
+New,3DP1*06502,KIR02084,Genomic Sequence
+New,3DP1*066,KIR02088,Genomic Sequence
+New,3DP1*067,KIR02064,Genomic Sequence
+New,3DP1*068,KIR02277,Genomic Sequence
+New,3DP1*069,KIR02274,Genomic Sequence
+New,3DP1*07001,KIR02287,Genomic Sequence
+New,3DP1*07002,KIR02199,Genomic Sequence
+New,3DP1*071,KIR02290,Genomic Sequence
+New,3DP1*072,KIR02078,Genomic Sequence
+New,3DP1*073,KIR02262,Genomic Sequence
+New,3DP1*074,KIR02265,Genomic Sequence
+New,3DP1*075,KIR02091,Genomic Sequence
+New,3DP1*076,KIR02066,Genomic Sequence
+New,3DP1*077,KIR02217,Genomic Sequence
+New,3DP1*078,KIR02094,Genomic Sequence
+New,3DP1*079,KIR02076,Genomic Sequence
+New,3DP1*080,KIR02269,Genomic Sequence
+New,3DP1*081,KIR02259,Genomic Sequence
+New,3DP1*082,KIR02249,Genomic Sequence
+New,3DP1*083,KIR02270,Genomic Sequence
+New,3DP1*0840101,KIR02083,Genomic Sequence
+New,3DP1*0840102,KIR02293,Genomic Sequence
+New,3DP1*085,KIR02075,Genomic Sequence
+New,3DP1*086,KIR02271,Genomic Sequence
+New,3DP1*087,KIR02192,Genomic Sequence
+New,3DP1*088,KIR02268,Genomic Sequence
+New,3DP1*0890101,KIR02062,
+New,3DP1*0890102,KIR02248,Genomic Sequence
+New,3DP1*090,KIR02176,Genomic Sequence
+New,3DP1*091,KIR02190,Genomic Sequence
+New,3DP1*092,KIR02170,Genomic Sequence
+New,3DP1*093,KIR02244,Genomic Sequence
+New,3DP1*094,KIR02216,Genomic Sequence
 Confidential,2DP1*014,,
-Modified,2DL4*0050101,KIR00026,Genomic Sequence Extended
-Modified,2DS3*0020101,KIR00131,Genomic Sequence Extended
-Modified,2DS3*0030102N,KIR01577,Genomic Sequence Extended
-Modified,3DL2*056,KIR00624,Genomic Sequence Added
-Modified,3DL3*0030106,KIR01334,Genomic Sequence Extended
-Modified,3DS1*0130101,KIR00085,Genomic Sequence Extended
-Modified,3DS1*055,KIR00243,Genomic Sequence Added
-Corrected,2DS2*0010101,KIR00037,Genomic Sequence Corrected
+Modified,2DL1*01102,KIR00396,Genomic Sequence Added
+Modified,2DL1*01202,KIR00574,Genomic Sequence Added
+Modified,2DL1*014,KIR00333,Sequence extended from position 1 to 10 and Genomic Sequence Added
+Modified,2DL1*034,KIR00900,Genomic Sequence Added
+Modified,2DL1*0690101,KIR01628,Genomic Sequence Added
+Modified,2DL5A*0050101,KIR00095,Genomic Sequence Extended
+Modified,2DP1*00101,KIR00052,Sequence extended from position 1 to 34 and position 607 to 1049 and Genomic Sequence Added
+Modified,2DP1*0020301,KIR00880,Genomic Sequence Added
+Modified,2DP1*012,KIR00686,Genomic Sequence Added
+Modified,2DP1*0160101,KIR00881,Genomic Sequence Added
+Modified,3DL1*0010106,KIR01078,Genomic Sequence Extended
+Modified,3DL1*0010107,KIR01100,Genomic Sequence Extended
+Modified,3DL1*0010109,KIR01110,Genomic Sequence Extended
+Modified,3DL1*0020102,KIR01071,Genomic Sequence Extended
+Modified,3DL1*0020103,KIR01117,Genomic Sequence Extended
+Modified,3DL1*0050103,KIR00707,Genomic Sequence Extended
+Modified,3DL1*0050109,KIR01092,Genomic Sequence Extended
+Modified,3DL1*0060101,KIR00061,Genomic Sequence Added
+Modified,3DL1*0090104,KIR01127,Genomic Sequence Extended
+Modified,3DL1*0150204,KIR00720,Genomic Sequence Extended
+Modified,3DL1*0150214,KIR01044,Genomic Sequence Extended
+Modified,3DL1*0150215,KIR01051,Genomic Sequence Extended
+Modified,3DL1*0200103,KIR01043,Genomic Sequence Extended
+Modified,3DL2*01001,KIR00074,Genomic Sequence Extended
+Modified,3DL2*01101,KIR00075,Sequence extended from position 1 to 69 and Genomic Sequence Added
+Modified,3DL3*04802,KIR00917,Genomic Sequence Added
+Deleted,2DP1*006,KIR02295,Name assigned in error and renamed 2DP1*00108
+Deleted,2DP1*024,KIR02296,Name assigned in error and renamed 2DP1*02102
+Deleted,3DP1*046,KIR02297,Name assigned in error and renamed 3DP1*00320
+Deleted,3DP1*047,KIR02298,Name assigned in error and renamed 3DP1*01402
