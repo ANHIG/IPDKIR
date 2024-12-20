@@ -1,22 +1,22 @@
 !!NA_MULTIPLE_ALIGNMENT
 
-   MSF: 14819  Type: N  Dec 13, 2023  10:05  Check: 0 ..
+   MSF: 14819  Type: N  Dec 20, 2024  16:22  Check: 0 ..
 
- Name: KIR2DL2*0010101  Len: 14819  Check: 8530  Weight:  1.00
- Name: KIR2DL2*0010102  Len: 14819  Check: 4839  Weight:  1.00
- Name: KIR2DL2*0010103  Len: 14819  Check: 3699  Weight:  1.00
- Name: KIR2DL2*0010104  Len: 14819  Check: 8684  Weight:  1.00
- Name: KIR2DL2*0010105  Len: 14819  Check: 3849  Weight:  1.00
- Name: KIR2DL2*0010106  Len: 14819  Check:  507  Weight:  1.00
- Name: KIR2DL2*0010107  Len: 14819  Check: 5490  Weight:  1.00
- Name: KIR2DL2*0030101  Len: 14819  Check: 1685  Weight:  1.00
- Name: KIR2DL2*0030102  Len: 14819  Check: 4560  Weight:  1.00
- Name: KIR2DL2*0030103  Len: 14819  Check: 4359  Weight:  1.00
- Name: KIR2DL2*0030104  Len: 14819  Check: 5493  Weight:  1.00
- Name: KIR2DL2*0030105  Len: 14819  Check: 8228  Weight:  1.00
- Name: KIR2DL2*0030106  Len: 14819  Check: 7562  Weight:  1.00
- Name: KIR2DL2*0030107  Len: 14819  Check: 2330  Weight:  1.00
- Name: KIR2DL2*0030108  Len: 14819  Check: 3350  Weight:  1.00
+ Name: KIR2DL2*0010101     Len: 14819  Check: 8530  Weight:  1.00
+ Name: KIR2DL2*0010102     Len: 14819  Check: 4839  Weight:  1.00
+ Name: KIR2DL2*0010103     Len: 14819  Check: 3699  Weight:  1.00
+ Name: KIR2DL2*0010104     Len: 14819  Check: 8684  Weight:  1.00
+ Name: KIR2DL2*0010105     Len: 14819  Check: 3849  Weight:  1.00
+ Name: KIR2DL2*0010106     Len: 14819  Check:  507  Weight:  1.00
+ Name: KIR2DL2*0010107     Len: 14819  Check: 5490  Weight:  1.00
+ Name: KIR2DL2*0030101     Len: 14819  Check: 1685  Weight:  1.00
+ Name: KIR2DL2*0030102     Len: 14819  Check: 4560  Weight:  1.00
+ Name: KIR2DL2*0030103     Len: 14819  Check: 4359  Weight:  1.00
+ Name: KIR2DL2*0030104     Len: 14819  Check: 5493  Weight:  1.00
+ Name: KIR2DL2*0030105     Len: 14819  Check: 8228  Weight:  1.00
+ Name: KIR2DL2*0030106     Len: 14819  Check: 7562  Weight:  1.00
+ Name: KIR2DL2*0030107     Len: 14819  Check: 2330  Weight:  1.00
+ Name: KIR2DL2*0030108     Len: 14819  Check: 3350  Weight:  1.00
 //
 
 KIR2DL2*0010101  TTTAATGTAA GCACAGAATT CAATCATCTC GTGTATGAGA GGTTGGATCT

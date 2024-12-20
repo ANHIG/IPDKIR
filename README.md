@@ -27,6 +27,7 @@ This directory contains data for the IPD-KIR Sequence Database. The database pro
 * Updated: 17 December 2021,  Release 2.11.0
 * Updated: 12 December 2022,  Release 2.12.0
 * Updated: 13 December 2023,  Release 2.13.0
+* Updated: 20 December 2024,  Release 2.14.0
 
 
 Files are currently provided for the nucleotide and protein sequences in FASTA, PIR and MSF format.
