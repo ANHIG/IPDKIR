@@ -1,6 +1,6 @@
 # file: release_version.txt
-# date: 2024-12-20
-# version: IPD-KIR 2.14.0
+# date: 2025-12-10
+# version: IPD-KIR 2.15.0
 # origin: https://github.com/ANHIG/IPDKIR/release_version.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IPDKIR/Latest/release_version.txt
-# author: Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+# author: IPD Team (ipdsubs@anthonynolan.org)

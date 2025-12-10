@@ -1,8 +1,8 @@
-# file: Allelelist.txt
+# file: Allelelist.2150.txt
 # date: 2025-12-10
 # version: IPD-KIR 2.15.0
-# origin: https://github.com/ANHIG/IPDKIR/Allelelist.txt
-# repository: https://raw.githubusercontent.com/ANHIG/IPDKIR/Latest/Allelelist.txt
+# origin: https://github.com/ANHIG/IPDKIR/Allelelist.2150.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IPDKIR/Latest/Allelelist.2150.txt
 # author: IPD Team (ipdsubs@anthonynolan.org)
 AlleleID,Allele
 KIR00001,KIR2DL1*0010101
